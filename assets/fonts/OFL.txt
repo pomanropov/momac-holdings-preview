@@ -1,0 +1,29 @@
+Fonts in this folder
+
+Archivo
+Copyright 2020 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)
+Source: https://fonts.google.com/specimen/Archivo
+
+Hanken Grotesk
+Copyright 2021 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk)
+Source: https://fonts.google.com/specimen/Hanken+Grotesk
+
+Both fonts are licensed under the SIL Open Font License, Version 1.1.
+Full license text and FAQ: https://openfontlicense.org
+
+variable/
+  Original variable fonts from Google Fonts. Use these on the web and in Claude Design.
+
+static-for-powerpoint/
+  Static instances made from the variable fonts for PowerPoint and Keynote,
+  which cannot use the width axis:
+    Archivo Expanded Light      width 125, weight 300
+    Archivo Expanded            width 125, weight 400
+    Archivo SemiExpanded        width 112.5, weight 400
+    Archivo SemiExpanded Medium width 112.5, weight 500
+    Hanken Grotesk              weight 400
+    Hanken Grotesk Medium       weight 500
+    Hanken Grotesk SemiBold     weight 600
+  Archivo line metrics were set to 1.2 (ascent 950, descent 250) so that line
+  spacing is the same on Mac and Windows. Install them on any computer that
+  opens the PowerPoint files.
